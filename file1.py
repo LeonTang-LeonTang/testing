@@ -1,7 +1,3 @@
-print('new new')
-print("new")
-print('username')
-print("add new info")
-print("hi223")
-
+print("A")
+print("B modified by coworker")
 
