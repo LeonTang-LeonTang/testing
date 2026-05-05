@@ -1,3 +1,4 @@
-pring('add username')
+print("new")
+print('add username')
 print("add new info")
 print("hi223")
